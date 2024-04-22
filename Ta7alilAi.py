@@ -78,3 +78,21 @@ with open(os.path.join(data_directory, json_filename), 'w') as file:
     json.dump(json_data, file, indent=4)
 
 print(f"JSON data saved to {os.path.join(data_directory, json_filename)}")
+
+
+
+# Generate report using OpenAI
+prompt = f"Generate a medical report based on the following data:\n\n{json.dumps(json_data, indent=4)}\n\nProvide insights and recommendations based on the patient's medical history and examination findings."
+# Generate report using OpenAI
+# Generate report using OpenAI
+report_response = client.chat.completions.create(
+    model="gpt-3.5-turbo-16k-0613",
+    messages=[
+        {
+            "role": "system",
+            "content": prompt
+        }
+    ],
+    max_tokens=2000
+)
+print(report_response)
