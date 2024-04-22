@@ -1,0 +1,169 @@
+{
+    "Report": {
+        "Measured_Date": "04/08/2022 09:38",
+        "Patient_Name": "----",
+        "Sample_Mode": "Auto Measure",
+        "Rack_Location": "01-07",
+        "LABORATOIRE_MGEN": "Checked",
+        "Sample_ID": "0007",
+        "Patient_ID": "38092",
+        "Date_of_Birth": "----",
+        "Age": "Unknown",
+        "Gender": "----",
+        "Sample_type": "Neg",
+        "Parameters": {
+            "WBC": {
+                "Data": 7.49,
+                "Unit": "10^3/uL",
+                "Normal_Range": "4.00 - 9.00"
+            },
+            "RBC": {
+                "Data": 5.25,
+                "Unit": "10^6/uL",
+                "Normal_Range": "3.76 - 5.70"
+            },
+            "HGB": {
+                "Data": 15.9,
+                "Unit": "g/dL",
+                "Normal_Range": "12.00 - 18.00"
+            },
+            "HCT": {
+                "Data": 46.1,
+                "Unit": "%",
+                "Normal_Range": "33.5 - 52.0"
+            },
+            "MCV": {
+                "Data": 87.8,
+                "Unit": "fL",
+                "Normal_Range": "80.0 - 100.0"
+            },
+            "MCH": {
+                "Data": 28.9,
+                "Unit": "pg",
+                "Normal_Range": "28.0 - 32.0"
+            },
+            "MCHC": {
+                "Data": 33.6,
+                "Unit": "g/dL",
+                "Normal_Range": "31.0 - 35.0"
+            },
+            "RDW-CV": {
+                "Data": 9.0,
+                "Unit": "%",
+                "Normal_Range": "11.6 - 14.0"
+            },
+            "RDW-SD": {
+                "Data": 33.7,
+                "Unit": "fL",
+                "Normal_Range": "42.8 - 51.0"
+            },
+            "PLT": {
+                "Data": 280.7,
+                "Unit": "10^3/uL",
+                "Normal_Range": "150.0 - 350.0"
+            },
+            "PCT": {
+                "Data": 0.27,
+                "Unit": "%",
+                "Normal_Range": "0.16 - 0.33"
+            },
+            "MPV": {
+                "Data": 9.6,
+                "Unit": "fL",
+                "Normal_Range": "7.0 - 11.0"
+            },
+            "PDW": {
+                "Data": 17.9,
+                "Unit": "%",
+                "Normal_Range": "15.5 - 18.9"
+            },
+            "P-LCR": {
+                "Data": 41.1,
+                "Unit": "%",
+                "Normal_Range": "20.0 - 58.0"
+            }
+        },
+        "Differential_Count": {
+            "NE": {
+                "Data": 3.3,
+                "Percentage": 44.06,
+                "Unit": "10^3/uL",
+                "Normal_Range": "1.10(28.00) - 7.00(78.00)"
+            },
+            "LY": {
+                "Data": 3.04,
+                "Percentage": 40.58,
+                "Unit": "10^3/uL",
+                "Normal_Range": "0.70(17.00) - 5.10(57.00)"
+            },
+            "MO": {
+                "Data": 0.53,
+                "Percentage": 7.09,
+                "Unit": "10^3/uL",
+                "Normal_Range": "0.00(0.00) - 0.90(10.00)"
+            },
+            "EO": {
+                "Data": 0.56,
+                "Percentage": 7.5,
+                "Unit": "10^3/uL",
+                "Normal_Range": "0.00(0.00) - 0.90(10.00)"
+            },
+            "BA": {
+                "Data": 0.06,
+                "Percentage": 0.77,
+                "Unit": "10^3/uL",
+                "Normal_Range": "0.00(0.00) - 0.20(2.00)"
+            }
+        },
+        "Other_Indices_And_Flags": {
+            "P-LCC": 115.4,
+            "MentzerIndex": 17,
+            "RDWI": 163,
+            "IG": {
+                "Data": 0.03,
+                "Percentage": 0.43,
+                "Unit": "10^3/uL"
+            },
+            "Band": {
+                "Data": 0.05,
+                "Percentage": 0.7,
+                "Unit": "10^3/uL"
+            },
+            "Seg": {
+                "Data": 3.25,
+                "Percentage": 43.36,
+                "Unit": "10^3/uL"
+            },
+            "Note": ": Research use only"
+        },
+        "Visual_Count": {
+            "Blast": null,
+            "Promyelocyte": null,
+            "Myelocyte": null,
+            "Metamyelocyte": null,
+            "Band": null,
+            "Seg": null,
+            "Lymphocyte": null,
+            "Atypical_Ly": null,
+            "Monocyte": null,
+            "Eosinophil": null,
+            "Basophil": null,
+            "Other": null,
+            "NRBC_100WBC": null
+        },
+        "Analysis_Info": {
+            "Analyzer": "MEK-9100",
+            "Status": {
+                "RM": "PASS",
+                "QC": "PASS",
+                "UM": "PASS"
+            },
+            "Operator_Name": "Administrator",
+            "Physician": "----",
+            "Department": "----",
+            "Comments": "----"
+        },
+        "Laboratory_Stamp": "Dr. JOURDY Squad",
+        "Equipment_Identification": "INEQ07173554"
+    }
+}
